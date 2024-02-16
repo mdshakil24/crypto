@@ -81,7 +81,7 @@ ul,li{
   font-weight: 600;
   font-size: 35px;
   color: #2FA480;
-  text-transform: uppercase;
+  text-transform: inherit;
 }
 .sh-crypto-header-tether-logo img {
   height: 60px;
