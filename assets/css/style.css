@@ -76,9 +76,12 @@ ul,li{
   transition: .3s;
 }
 
-.sh-crypto-header-crypto-logo img {
-  height: 40px;
-  width: auto;
+.sh-crypto-header-crypto-logo a {
+  font-family: "Roboto Slab", serif;
+  font-weight: 600;
+  font-size: 35px;
+  color: #2FA480;
+  text-transform: uppercase;
 }
 .sh-crypto-header-tether-logo img {
   height: 60px;
@@ -238,7 +241,7 @@ ul,li{
   background-repeat: no-repeat;
   background-size: 100% 100%;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 12px;
   color: #FFFFFF;
   text-transform: uppercase;
   position: relative;
@@ -305,6 +308,11 @@ ul,li{
 .sh-footer-bottom-content ul li a:hover {
   color: #247FCA;
   border-bottom: 1px solid #247FCA;
+}
+.sh-footer-bottom-content h2 {
+  font-weight: 600;
+  font-size: 25px;
+  color: #03A650;
 }
 
 /* End SH Footer Area Css */
