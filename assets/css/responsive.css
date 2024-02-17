@@ -79,23 +79,24 @@
 
 @media all and (max-width: 450px) {
     
-    .sh-single-buy-now-content {
+    /* .sh-single-buy-now-content {
         flex-direction: column;
         align-items: center;
-    }
-    .sh-single-buy-now-left-content,.sh-single-buy-now-right-content {
+    } */
+    /* .sh-single-buy-now-left-content,.sh-single-buy-now-right-content {
         flex: 0 0 100%;
-    }
+    } */
     .sh-single-buy-now-left-content {
-        padding-top: 25px;
-        padding-bottom: 15px;
+        /* padding-top: 25px; */
+        /* padding-bottom: 15px; */
+        padding: 38px 0;
     }
-    .sh-single-buy-now-left-content {
+    /* .sh-single-buy-now-left-content {
         border-right: 0;
-    }
+    } */
     .sh-single-buy-now-right-content {
-        text-align: center;
-        padding-bottom: 20px;
+        /* text-align: center; */
+        padding-bottom: 10px;
     }
     .sh-crypto-header-crypto-logo a {
         font-size: 20px;
@@ -118,8 +119,39 @@
         height: 85px;
     }
     .sh-footer-top-left-method h2, .sh-footer-top-left-method ul li a {
+        font-size: 18px;
         margin-left: -65px;
         margin-bottom: 25px;
+    }
+
+    /* ===================== */
+
+    .sh-footer-bottom-content ul li a {
+        font-size: 8px;
+    }
+
+    .sh-single-buy-now-image-content img {
+        width: 60px;
+    }
+    .sh-single-buy-now-left-content h3 {
+        font-size: 12px;
+    }
+    .sh-single-buy-now-right-text p {
+        font-size: 12px;
+        padding-left: 10px;
+    }
+
+    .sh-footer-bottom-content h2 {
+        font-size: 15px;
+    }
+    .sh-footer-bottom-content img {
+        height: 15px;
+    }
+    .sh-footer-bottom-content h2 {
+        font-size: 12px;
+    }
+    .sh-footer-top-left-payment-method img {
+        height: 20px;
     }
 
 
