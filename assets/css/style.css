@@ -170,8 +170,9 @@ ul,li{
 .sh-single-buy-now-right-text p {
   font-family: "Roboto Slab", serif;
   font-weight: 500;
-  font-size: 15px;
+  font-size: 8px;
   color: #000000;
+  text-align: center;
 }
 .sh-single-buy-now-right-text p a {
   color: #000000;

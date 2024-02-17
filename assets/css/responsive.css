@@ -16,9 +16,9 @@
     .sh-single-buy-now-right-content {
         padding-left: 2%;
     }
-    .sh-single-buy-now-right-text p {
+    /* .sh-single-buy-now-right-text p {
         font-size: 14px;
-    }
+    } */
     .sh-single-buy-now-image-content img {
         width: 70px;
     }
@@ -35,9 +35,7 @@
         padding-left: 2%;
 
     }
-    .sh-single-buy-now-right-text p br {
-        display: none;
-    }
+
     .sh-single-buy-now-left-content {
         flex: 0 0 35%;
         padding: 35px 0;
@@ -137,7 +135,7 @@
         font-size: 12px;
     }
     .sh-single-buy-now-right-text p {
-        font-size: 12px;
+        /* font-size: 12px; */
         padding-left: 10px;
     }
 
