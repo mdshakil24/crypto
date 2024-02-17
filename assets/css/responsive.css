@@ -97,19 +97,21 @@
         padding-bottom: 10px;
     }
     .sh-crypto-header-crypto-logo a {
-        font-size: 20px;
+        font-size: 17px;
     }
     .sh-crypto-header-tether-logo img {
-        height: 35px;
+        height: 30px;
     }
     .sh-crypto-header-login-button a {
-        width: 65px;
-        height: 65px;
-        font-size: 13px;
+        width: 60px;
+        height: 60px;
+        font-size: 11px;
     }
 
+
     .sh-crypto-header-text h2 {
-        font-size: 18px;
+        font-size: 14px;
+        margin-top: 10px;
     }
     .sh-footer-top-right-contact-btn a {
         font-size: 10px;
@@ -117,9 +119,9 @@
         height: 85px;
     }
     .sh-footer-top-left-method h2, .sh-footer-top-left-method ul li a {
-        font-size: 18px;
+        font-size: 16px;
         margin-left: -65px;
-        margin-bottom: 25px;
+        margin-bottom: 30px;
     }
 
     /* ===================== */
