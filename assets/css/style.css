@@ -128,7 +128,7 @@ ul,li{
   border-right: 10px solid #FFFFFF;
 }
 .sh-single-buy-now-right-content {
-  padding-left: 5%;
+  padding: 0 2.5%;
   flex: 0 0 75%;
 }
 
