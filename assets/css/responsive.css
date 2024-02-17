@@ -16,9 +16,9 @@
     .sh-single-buy-now-right-content {
         padding-left: 2%;
     }
-    /* .sh-single-buy-now-right-text p {
+    .sh-single-buy-now-right-text p {
         font-size: 14px;
-    } */
+    }
     .sh-single-buy-now-image-content img {
         width: 70px;
     }
@@ -71,29 +71,31 @@
     .sh-footer-top-right-method {
         top: -35px;
     }
+    .sh-single-buy-now-right-text p {
+        font-size: 12px;
+    }
+    .sh-footer-bottom-content ul li a {
+        font-size: 12px;
+    }
+    .sh-footer-bottom-content h2 {
+        font-size: 18px;
+    }
+    .sh-footer-bottom-content img {
+        height: 22px;
+    }
 
 
 }
 
 @media all and (max-width: 450px) {
     
-    /* .sh-single-buy-now-content {
-        flex-direction: column;
-        align-items: center;
-    } */
-    /* .sh-single-buy-now-left-content,.sh-single-buy-now-right-content {
-        flex: 0 0 100%;
-    } */
+
     .sh-single-buy-now-left-content {
-        /* padding-top: 25px; */
-        /* padding-bottom: 15px; */
         padding: 38px 0;
     }
-    /* .sh-single-buy-now-left-content {
-        border-right: 0;
-    } */
+
     .sh-single-buy-now-right-content {
-        /* text-align: center; */
+        text-align: center;
         padding-bottom: 10px;
     }
     .sh-crypto-header-crypto-logo a {
@@ -107,7 +109,6 @@
         height: 60px;
         font-size: 11px;
     }
-
 
     .sh-crypto-header-text h2 {
         font-size: 14px;
@@ -124,35 +125,24 @@
         margin-bottom: 30px;
     }
 
-    /* ===================== */
-
-    .sh-footer-bottom-content ul li a {
-        font-size: 8px;
+    .sh-footer-bottom-content h2 {
+        font-size: 13px;
     }
-
-    .sh-single-buy-now-image-content img {
-        width: 60px;
+    .sh-footer-bottom-content img {
+        height: 18px;
+    }
+    .sh-footer-bottom-content ul li a {
+        font-size: 10px;
+        margin-right: 5px;
+    }
+    .sh-single-buy-now-right-text p br {
+        display: none;
     }
     .sh-single-buy-now-left-content h3 {
         font-size: 12px;
     }
-    .sh-single-buy-now-right-text p {
-        /* font-size: 12px; */
-        padding-left: 10px;
+    .sh-single-buy-now-image-content img {
+        width: 65px;
     }
-
-    .sh-footer-bottom-content h2 {
-        font-size: 15px;
-    }
-    .sh-footer-bottom-content img {
-        height: 15px;
-    }
-    .sh-footer-bottom-content h2 {
-        font-size: 12px;
-    }
-    .sh-footer-top-left-payment-method img {
-        height: 20px;
-    }
-
 
 }
