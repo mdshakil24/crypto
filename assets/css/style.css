@@ -148,7 +148,9 @@ ul,li{
   margin-top: 0;
   text-align: center;
 }
-
+.sh-single-buy-now-right-button {
+  text-align: center;
+}
 .sh-single-buy-now-right-button a {
   font-weight: 600;
   font-size: 18px;
