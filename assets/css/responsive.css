@@ -1,0 +1,126 @@
+@media all and (max-width: 627px) {
+
+    .sh-footer-top-left-payment-method img {
+        height: 35px;
+    }
+    .sh-footer-bottom-content img {
+        height: 30px;
+    }
+    .sh-footer-bottom-content h2 {
+        font-size: 22px;
+    }
+    .sh-single-buy-now-right-button a {
+        font-size: 16px;
+        padding: 18px 55px 18px 30px;
+    }
+    .sh-single-buy-now-right-content {
+        padding-left: 2%;
+    }
+    .sh-single-buy-now-right-text p {
+        font-size: 14px;
+    }
+    .sh-single-buy-now-image-content img {
+        width: 70px;
+    }
+
+
+}
+
+@media all and (max-width: 575px) {
+    .sh-single-buy-now-left-content {
+        flex: 0 0 35%;
+    }
+    .sh-single-buy-now-right-content {
+        flex: 0 0 63%;
+        padding-left: 2%;
+
+    }
+    .sh-single-buy-now-right-text p br {
+        display: none;
+    }
+    .sh-single-buy-now-left-content {
+        flex: 0 0 35%;
+        padding: 35px 0;
+    }
+    .sh-crypto-header-crypto-logo a {
+        font-size: 26px;
+    }
+    .sh-crypto-header-tether-logo img {
+        height: 50px;
+    }
+    .sh-crypto-header-text h2 {
+        font-size: 20px;
+        margin-top: 15px;
+    }
+    .sh-crypto-header-login-button a {
+        width: 80px;
+        height: 80px;
+    }
+    .sh-crypto-header-text h2 span img {
+        height: 22px;
+    }
+    .sh-footer-top-left-payment-method img {
+        height: 25px;
+    }
+    .sh-footer-bottom-content {
+        flex-wrap: wrap;
+    }
+    .sh-footer-top-right-contact-btn a {
+        font-size: 11px;
+        width: 90px;
+        height: 90px;
+    }
+    .sh-footer-top-right-method {
+        top: -35px;
+    }
+
+
+}
+
+@media all and (max-width: 450px) {
+    
+    .sh-single-buy-now-content {
+        flex-direction: column;
+        align-items: center;
+    }
+    .sh-single-buy-now-left-content,.sh-single-buy-now-right-content {
+        flex: 0 0 100%;
+    }
+    .sh-single-buy-now-left-content {
+        padding-top: 25px;
+        padding-bottom: 15px;
+    }
+    .sh-single-buy-now-left-content {
+        border-right: 0;
+    }
+    .sh-single-buy-now-right-content {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .sh-crypto-header-crypto-logo a {
+        font-size: 20px;
+    }
+    .sh-crypto-header-tether-logo img {
+        height: 35px;
+    }
+    .sh-crypto-header-login-button a {
+        width: 65px;
+        height: 65px;
+        font-size: 13px;
+    }
+
+    .sh-crypto-header-text h2 {
+        font-size: 18px;
+    }
+    .sh-footer-top-right-contact-btn a {
+        font-size: 10px;
+        width: 85px;
+        height: 85px;
+    }
+    .sh-footer-top-left-method h2, .sh-footer-top-left-method ul li a {
+        margin-left: -65px;
+        margin-bottom: 25px;
+    }
+
+
+}
